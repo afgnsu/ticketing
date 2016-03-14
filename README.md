@@ -6,6 +6,7 @@
 3. bundle
 4. rake db:schema:load db:seed
 5. rails s
+6. 登入 (帳號：a@a.a，密碼：12345678)
 
 ![Demo](https://github.com/afgnsu/ticketing/blob/master/DEMO.png)
 ![Demo1](https://github.com/afgnsu/ticketing/blob/master/DEMO1.png)
